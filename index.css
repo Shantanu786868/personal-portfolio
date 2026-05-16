@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root {
+  /* fonts */
+  --font-sans:  'DM Sans', sans-serif;
+  --font-serif: 'Playfair Display', serif;
+  --font-mono:  Menlo, 'Courier New', monospace;
+
+  /* palette — terracotta / cream */
+  --color-primary:       hsl(15, 55%, 48%);
+  --color-primary-dark:  hsl(15, 55%, 38%);
+
+  --color-bg:            hsl(40, 33%, 98%);
+  --color-surface:       hsl(40, 25%, 95%);
+  --color-card:          hsl(40, 33%, 99%);
+
+  --color-text:          hsl(20, 14%, 16%);
+  --color-muted:         hsl(20, 12%, 45%);
+
+  --color-border:        hsl(20, 14%, 85%);
+  --color-border-subtle: hsl(20, 14%, 90%);
+}
