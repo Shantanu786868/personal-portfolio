@@ -69,4 +69,9 @@ The design is fully responsive, ensuring proper display across desktops, tablets
 
 OUTCOME : <img width="1873" height="791" alt="Screenshot 2026-05-16 224924" src="https://github.com/user-attachments/assets/78525cb0-7726-4c78-bf5a-174e912f2157" />
 <img width="1852" height="798" alt="Screenshot 2026-05-16 225033" src="https://github.com/user-attachments/assets/1e7c5af3-2f28-4d2d-a5af-1f380b5d058d" />
+<img width="1811" height="767" alt="Screenshot 2026-05-16 224943" src="https://github.com/user-attachments/assets/9b671e16-d519-49d6-be2c-72e6ea651de9" />
+<img width="1865" height="722" alt="Screenshot 2026-05-16 224959" src="https://github.com/user-attachments/assets/8bec6444-1d0f-4089-a1b7-60036846e047" />
+<img width="1872" height="808" alt="Screenshot 2026-05-16 225015" src="https://github.com/user-attachments/assets/8e192e88-df90-4e28-ad01-b5dc70aa0db5" />
+
+
 
